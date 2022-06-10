@@ -1,0 +1,7 @@
+Bom dia, o sol já nasceu lá na fazendinha, acorda o bezerro e a vaquinha.
+
+static void soma(int a, int b){
+
+	int sum = a + b;
+
+}
